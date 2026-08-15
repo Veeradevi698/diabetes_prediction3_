@@ -3,5 +3,6 @@ numpy
 pandas
 scikit-learn
 requests
+plotly
 googletrans==4.0.0-rc1
 httpx==0.13.3
